@@ -138,14 +138,14 @@ POC avec Pipeline d'analyse sémantique et rhétorique de débats a partir d'un 
 
 ## 📈 Expérience récente
 
-| Période       | Mission                           | Highlight |
-|---------------|---------|-------------------------|-----------------------------------------------------------------------------------------------------|
-| **2025 (Q4)** | Architecte Data, *Altitude Ltd*   | Refonte OLAP ClickHouse blockchain temps réel, schéma dimensionné x100, requêtes <200ms             |
-| **2025**      | Freelance IA, *Arch-IT*           | Daikoku, Mimir, AutoGen : portfolio open source production-grade et plusieurs missions              |
-| **2025 (Q1)** | Full stack, *Bulltrading.io*      | Reconstruction front React + Tailwind, dashboards financiers temps réel, i18n 9 langues             |
-| **2023-2024** | IT Manager, *Excelvision*         | Migration O365 + MFA pour 650 utilisateurs en 1 mois, datacenter 150 serveurs                       |
-| **2020-2022** | Responsable IT, *LAFUMA SA*       | Carve-out Oxbow en 6 mois, gestion de 3 cyberattaques, périmètre 500 utilisateurs / 50 sites Europe |
-| **2014-2018** | Responsable IT, *Infologic-Santé* | Refonte SI complète, croissance 35 à 65 collaborateurs, +36% de CA en 4 ans                         |
+| Période       | Mission                           | Highlight                                                                  |
+|---------------|-----------------------------------|----------------------------------------------------------------------------|
+| **2025 (Q4)** | Architecte Data, *Altitude Ltd*   | Refonte OLAP ClickHouse blockchain temps réel, dimensionné x100, req <200ms|
+| **2025**      | Freelance IA, *Arch-IT*           | Daikoku, Mimir, AutoGen : portfolio open source production-grade           |
+| **2025 (Q1)** | Full stack, *Bulltrading.io*      | Reconstruction front, dashboards financiers temps réel, i18n 9 langues     |
+| **2023-2024** | IT Manager, *Excelvision*         | Migration O365 + MFA pour 650 utilisateurs en 1 mois, datacenter 150 srv   |
+| **2020-2022** | Responsable IT, *LAFUMA SA*       | Carve-out Oxbow en 6 mois, 3 cyberattaques, 500 utilisateurs / 50 sites Eur|
+| **2014-2018** | Responsable IT, *Infologic-Santé* | Refonte SI complète, croissance 35 à 65 collaborateurs, +36% de CA en 4 ans|
 
 [![CV complet](https://img.shields.io/badge/📄_CV_complet-PDF-2D8659?style=for-the-badge)](https://yann.pointud.fr/cv.pdf)
 
