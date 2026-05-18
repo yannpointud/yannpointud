@@ -58,6 +58,7 @@ Chatbot RAG multi-utilisateurs avec authentification, dashboard admin et vectori
 - **Stack** : FastAPI, React, Qdrant, HNSW, Ollama
 - **Métriques** : ~28k LOC applicatif (Python + JSX)
 - **Statut** : déployé, production-ready
+  
 [![Article](https://img.shields.io/badge/📖_Article-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/anatomie-dun-chatbot-documentaire-les-3-piliers-dune-solution-yann-szdte) [![Demo](https://img.shields.io/badge/▶_Démo-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/Y_acgluKn-0)
 
 ### 🤖 [AutoGen](https://github.com/yannpointud/autogen) · Orchestrateur multi-agents IA
@@ -66,6 +67,7 @@ Framework R&D d'orchestration d'agents IA spécialisés avec routing dynamique.
 
 - **Stack** : Python, LLM orchestration, MCP
 - **Cas d'usage** : automatisation workflows complexes, recherche augmentée, correction des biais organisationnels multi agents
+  
 [![Article](https://img.shields.io/badge/📖_Article-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/autogen-une-architecture-multi-agents-pour-le-logiciel-yann-pointud-r9osc) [![Demo](https://img.shields.io/badge/▶_Démo-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/AptHkYyjDJg)
 
 ### 📱 [DecorIA](https://github.com/yannpointud/decoria) · App mobile React Native IA
@@ -74,6 +76,7 @@ Application mobile de visualisation d'aménagement d'intérieur assisté par IA.
 
 - **Stack** : React Native, Computer Vision, génération d'images
 - **Statut** : démo fonctionnelle sans bugs, réalisé en 4 jours
+  
 [![Article](https://img.shields.io/badge/📖_Article-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/decoria-d%C3%A9monstration-concr%C3%A8te-du-potentiel-des-ia-yann-pointud-ycmze) [![Demo](https://img.shields.io/badge/▶_Démo-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/aq31_1gFSFI) [![Short](https://img.shields.io/badge/⚡_Short-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/shorts/UVXwsJ-P3nQ)
 
 ### 🧬 [AI-setupGen](https://github.com/yannpointud/ai-setupgen) · Framework de génération par algorithmes génétiques
@@ -82,6 +85,7 @@ Framework de recherche de stratégies trading par évolution génétique.
 
 - **Stack** : Python, algorithmes génétiques, backtesting
 - **Statut** : Setups rentables déployés en production plusieurs mois
+  
 [![Article](https://img.shields.io/badge/📖_Article-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/ing%C3%A9nierie-dune-ia-de-g%C3%A9n%C3%A9ration-strat%C3%A9gies-trading-yann-pointud-bpg1e)
 
 ### 🗣️ [DialecticIA](https://github.com/yannpointud/dialecticia) · Pipeline NLP d'analyse de débats
@@ -91,6 +95,7 @@ POC avec pipeline d'analyse sémantique et rhétorique de débats a partir d'un 
 - **Stack** : Python, NLP, Transformers
 - **Cas d'usage** : extraction d'arguments, détection de biais
 - **Délai** : réalisé en 24h
+  
 [![Article](https://img.shields.io/badge/📖_Article-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/lia-au-service-de-lanalyse-rh%C3%A9torique-yann-pointud-wqm7e/) [![Demo](https://img.shields.io/badge/▶_Démo-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/WD-EtxMOB3E)
 ---
 
