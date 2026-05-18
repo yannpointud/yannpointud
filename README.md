@@ -19,7 +19,7 @@ J'accompagne les entreprises confrontées à des défis techniques exigeants,
 
 ## 🎯 Ce que je fais
 
-Je ne me contente pas de concevoir, **je bâtis**. Architecture end-to-end, code en production.
+Je ne me contente pas de concevoir, **je bâtis** : Architecture end-to-end, code en production.
 
 ```yaml
 focus:
@@ -78,7 +78,7 @@ Framework de recherche de stratégies trading par évolution génétique.
 - **Stack** : Python, algorithmes génétiques, backtesting
 - **Statut** : Setups rentables déployés en production plusieurs mois
 
-### 🗣️ [DialecticIA](https://github.com/yannpointud/dialectic-ia) · Pipeline NLP d'analyse de débats
+### 🗣️ [DialecticIA](https://github.com/yannpointud/dialecticia) · Pipeline NLP d'analyse de débats
 
 POC avec Pipeline d'analyse sémantique et rhétorique de débats a partir d'un lien youtube
 
