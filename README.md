@@ -151,19 +151,6 @@ POC avec Pipeline d'analyse sémantique et rhétorique de débats a partir d'un 
 
 ---
 
-## 📊 Stats GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannpointud&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yannpointud&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8)
-
-![Streak](https://streak-stats.demolab.com?user=yannpointud&theme=midnight-purple&hide_border=true)
-
-</div>
-
----
-
 ## 🧭 Ce qui me motive
 
 > *Les défis qui n'ont pas de solution dans le manuel.*
