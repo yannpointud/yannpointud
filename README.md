@@ -11,7 +11,7 @@ J'accompagne les entreprises confrontées à des défis techniques exigeants,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-pointud/)
 [![Email](https://img.shields.io/badge/yann@pointud.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yann@pointud.fr)
-[![Localisation](https://img.shields.io/badge/Drôme%20·%20Remote-2D8659?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Localisation](https://img.shields.io/badge/Drôme%20·%20Remote-2D8659?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Valence,+France)
 
 </div>
 
