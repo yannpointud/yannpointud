@@ -80,7 +80,7 @@ Framework de recherche de stratégies trading par évolution génétique.
 
 ### 🗣️ [DialecticIA](https://github.com/yannpointud/dialecticia) · Pipeline NLP d'analyse de débats
 
-POC avec Pipeline d'analyse sémantique et rhétorique de débats a partir d'un lien youtube
+POC avec pipeline d'analyse sémantique et rhétorique de débats a partir d'un lien YouTube
 
 - **Stack** : Python, NLP, Transformers
 - **Cas d'usage** : extraction d'arguments, détection de biais
