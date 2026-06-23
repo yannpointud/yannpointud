@@ -32,7 +32,7 @@ focus:
 posture:
   - "Code first" : tout est démontrable sur GitHub
   - Acquisition rapide de stack 
-  - Du POC R&D au déploiement scalable
+  - Du POC R&D au déploiement scalable en production
 ```
 
 ---
