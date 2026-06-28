@@ -2,7 +2,7 @@
 
 # Yann POINTUD
 
-### Architecte & Développeur Senior · 15+ ans
+### Architecte & Ingénieur IA Senior · 15+ ans
 
 **Pragmatique. Agnostique techniquement. De l'architecture à l'exécution.**
 
