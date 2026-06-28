@@ -37,7 +37,7 @@ posture:
 
 ---
 
-## 🚀 Projets
+## 🚀 Projets Personnels
 
 ### 🧠 [Daikoku](https://github.com/yannpointud/daikoku) · Framework Mamba SSM pour la prédiction de séries temporelles (Deeplearning)
 
