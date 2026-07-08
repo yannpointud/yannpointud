@@ -198,7 +198,7 @@ Je suis **disponible en freelance** pour des missions :
 - TJM 500-800 €/jour selon le scope
 - Sujets : MLOps, architecture IA, full stack production, data engineering temps réel, fintech
 
-📩 **yann@pointud.fr** · [LinkedIn](https://www.linkedin.com/in/yann-pointud/) · [Malt](https://www.malt.fr/profile/yannpointud) · [CV](https://yann.pointud.fr)****
+📩 **yann@pointud.fr** · [LinkedIn](https://www.linkedin.com/in/yann-pointud/) · [Malt](https://www.malt.fr/profile/yannpointud) · [CV](https://yann.pointud.fr)
 
 <div align="center">
 
