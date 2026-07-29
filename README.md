@@ -4,7 +4,7 @@
 
 ### Architecte & Ingénieur IA Senior · 15+ ans
 
-**Pragmatique. Agnostique techniquement. De l'architecture à l'exécution.**
+**Pragmatique. Agnostique techniquement. De l'architecture à la production.**
 
 J'accompagne les entreprises confrontées à des défis techniques exigeants,
 à l'intersection **IA, systèmes et data**.
