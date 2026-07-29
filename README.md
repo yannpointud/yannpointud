@@ -7,7 +7,7 @@
 **Pragmatique. Agnostique techniquement. De l'architecture à l'exécution.**
 
 J'accompagne les entreprises confrontées à des défis techniques exigeants,
-à l'intersection **data, IA et systèmes**.
+à l'intersection **IA, systèmes et data**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-pointud/)
 [![Email](https://img.shields.io/badge/yann@pointud.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yann@pointud.fr)
