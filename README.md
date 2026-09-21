@@ -46,6 +46,31 @@ socle:
 
 ## 🚀 Projets Personnels
 
+### 🔧 Diagnostic IA de schémas électriques · Assistance à la maintenance industrielle
+
+[![Article](https://img.shields.io/badge/📖_Article-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/95-de-diagnostics-justes-sur-des-sch%C3%A9mas-que-les-llm-ne-yann-pointud-ppree/) [![Short](https://img.shields.io/badge/⚡_Short-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/GaGZAEoBDEo)
+
+Un technicien pose sa question en langage naturel ; l'IA répond sur des schémas électriques multi-folios que les modèles de vision lisent mal nativement.
+
+- **Architecture** : ni RAG ni fine-tuning ; redressement et OCR spatial des pages, graphe de continuité inter-folios, suivi des numéros de fils imprimés, zoom dynamique, navigation agentique dans la documentation
+- **Corpus** : 357 pages sur 5 PDF dont 150 de schémas, jusqu'à 79 images rastérisées sur une seule page
+- **Métriques** : 95 % de diagnostics justes contre 73 % sans préparation ; 100 % sur les questions de continuité inter-folios contre 58 % ; 30/30 sur un jeu de questions inédites
+- **Exploitation** : 0,01 à 0,20 $ par requête, 20 s à 1 min de réponse ; passage à l'échelle machine par machine, l'espace de recherche reste petit
+- **Statut** : validé en test terrain par deux techniciens de maintenance seniors
+
+
+### ☎️ VocalIA · Standard téléphonique IA en français
+
+[![Article](https://img.shields.io/badge/📖_Article-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/o%C3%B9-passe-le-temps-quand-une-ia-d%C3%A9croche-t%C3%A9l%C3%A9phone-yann-pointud-fteve/) [![Demo](https://img.shields.io/badge/▶_Démo-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Qiw3iY_Vpls)
+
+Un standard qui décroche, comprend la demande et oriente l'appel, avec un temps de réponse compatible avec une conversation naturelle.
+
+- **Architecture** : pipeline temps réel détection de fin de parole, transcription, LLM, synthèse vocale ; chaque étape budgétée en millisecondes
+- **Métriques** : 600 à 800 ms entre le dernier mot de l'appelant et le premier mot de réponse 
+- **Contrainte** : uniquement des offres gratuites sur un laptop standard, donc un plancher de latence plus bas en production
+- **Statut** : démo publique
+
+
 ### 🧠 [Daikoku](https://github.com/yannpointud/daikoku) · Framework Mamba SSM pour la prédiction de séries temporelles (Deeplearning)
 
 [![Article](https://img.shields.io/badge/📖_Article-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/daikoku-architecture-end-to-end-ml-pipeline-financial-yann-pointud-uzvre/)
@@ -67,7 +92,7 @@ Chatbot RAG multi-utilisateurs avec authentification, dashboard admin et vectori
 - **Architecture** : pipeline RAG complet, JWT, isolation des contextes par utilisateur
 - **Stack** : FastAPI, React, Qdrant, HNSW, Ollama
 - **Métriques** : ~28k LOC applicatif (Python + JSX)
-- **Statut** : déployé, production-ready
+- **Statut** : Variante basée sur ce code déployée
   
 
 ### 🤖 [AutoGen](https://github.com/yannpointud/autogen) · Orchestrateur multi-agents IA
@@ -87,7 +112,7 @@ Framework R&D d'orchestration d'agents IA spécialisés avec routing dynamique.
 Application mobile de visualisation d'aménagement d'intérieur assisté par IA.
 
 - **Stack** : React Native, Computer Vision, génération d'images
-- **Statut** : démo fonctionnelle sans bugs, réalisé en 4 jours
+- **Statut** : appli fonctionnelle sans bugs, réalisé en 4 jours
   
 
 
