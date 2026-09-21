@@ -35,7 +35,7 @@ posture:
   - Analyse systémique : le SI comme un ensemble interdépendant, pas une pile d'outils
   - Agnostique techniquement : la stack suit le besoin, jamais l'inverse
   - Apprentissage rapide : nouveau domaine, nouvelle stack, mise en production
-  - Code first : tout est démontrable sur GitHub
+  - Code first : open source quand c'est possible, démo vidéo sinon.
 
 socle:
   - 15+ ans de systèmes, de cybersécurité et de direction IT derrière chaque ligne de code
