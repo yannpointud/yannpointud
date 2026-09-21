@@ -23,16 +23,23 @@ Je ne me contente pas de concevoir, **je bâtis** : Architecture end-to-end, cod
 
 ```yaml
 focus:
-  - GenAI, agents, RAG, MLOps, Deep learning
-  - Architectures data temps réel
-  - Full stack (Python / React / FastAPI / .NET...)
-  - Quant & trading algorithmique
-  - Cybersécurité opérationnelle
+  - GenAI : LLM, RAG et GraphRAG, agents et orchestration, MLOps
+  - Deep learning : PyTorch, Mamba SSM, Transformers, vision, NLP
+  - Data : ClickHouse, ETL, vectorisation (FAISS, Qdrant, HNSW), temps réel
+  - Full stack : Python, FastAPI, React, TypeScript, .NET / Protobuf
+  - Infra & cybersécurité : cloud et on premise, MFA, hardening, réponse à incident
+  - Conformité : RGPD, AI Act, gouvernance data
 
 posture:
-  - "Code first" : tout est démontrable sur GitHub
-  - Acquisition rapide de stack 
-  - Du POC R&D au déploiement scalable en production
+  - Industrialisation IA : du POC R&D au déploiement qui tient en production
+  - Analyse systémique : le SI comme un ensemble interdépendant, pas une pile d'outils
+  - Agnostique techniquement : la stack suit le besoin, jamais l'inverse
+  - Apprentissage rapide : nouveau domaine, nouvelle stack, mise en production
+  - Code first : tout est démontrable sur GitHub
+
+socle:
+  - 15+ ans de systèmes, de cybersécurité et de direction IT derrière chaque ligne de code
+  - Maîtrise Informatique spécialisation IA, Grenoble 2004 : réseaux de neurones, logique floue, multi-agents
 ```
 
 ---
@@ -173,20 +180,10 @@ Au-delà du code, je publie aussi sur la pratique de l'IA appliquée :
 | **2025 (Q1)** | Full stack, *Bulltrading.io*      | Reconstruction front, dashboards financiers temps réel, i18n 9 langues     |
 | **2023-2024** | IT Manager, *Excelvision*         | Migration O365 + MFA pour 650 utilisateurs en 1 mois, datacenter 150 srv   |
 | **2020-2022** | Responsable IT, *LAFUMA SA*       | Carve-out Oxbow en 6 mois, 3 cyberattaques, 500 utilisateurs / 50 sites Eur|
-| **2014-2018** | Responsable IT, *Infologic-Santé* | Refonte SI complète, croissance 35 à 65 collaborateurs, +36% de CA en 4 ans|
+| **2019-2020** | Responsable de pole, *Wixalia*    | Amelioration des workflows +35%                                            |
+| **2009-2018** | Responsable IT, *Infologic-Santé* | Refonte SI complète, croissance 35 à 65 collaborateurs, +36% de CA en 4 ans|
 
 [![CV complet](https://img.shields.io/badge/📄_CV_complet-PDF-2D8659?style=for-the-badge)](https://yann.pointud.fr/cv.pdf)
-
----
-
-## 🧭 Ce qui me motive
-
-> *Les défis qui n'ont pas de solution dans le manuel.*
-
-- **R&D appliquée IA** : Mamba, JEPA, world models, agents planificateurs
-- **Trading algorithmique** : 6 ans d'expérience perso, création bots, mécaniques de marché, 20% annuel en moyenne
-- **Pensée systémique** : voir le SI comme un organisme, un ensemble interdépendant
-- **Apprentissage rapide** : approche analytique, motivé par les nouveaux défis
 
 ---
 
@@ -196,7 +193,7 @@ Je suis **disponible en freelance** pour des missions :
 
 - 100% remote (préférence) ou sur site dans les alentours de Valence (26)
 - TJM 500-800 €/jour selon le scope
-- Sujets : MLOps, architecture IA, full stack production, data engineering temps réel, fintech
+- Sujets : GenAI, MLOps, architecture IA, full stack production, data engineering temps réel
 
 📩 **yann@pointud.fr** · [LinkedIn](https://www.linkedin.com/in/yann-pointud/) · [Malt](https://www.malt.fr/profile/yannpointud) · [CV](https://yann.pointud.fr)
 
