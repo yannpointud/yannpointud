@@ -138,15 +138,6 @@ POC avec pipeline d'analyse sémantique et rhétorique de débats a partir d'un 
   
 ---
 
-## ✍️ Articles & Réflexions
-
-Au-delà du code, je publie aussi sur la pratique de l'IA appliquée :
-
-- 📖 [**Pilotez l'IA comme vous votre entreprise**](https://www.linkedin.com/pulse/pilotez-lia-comme-vous-votre-entreprise-yann-pointud-1iq4e/) · Posture et méthodologie pour intégrer l'IA dans une organisation
-- 📖 [**IA & Automatisation : la puissance créative**](https://www.linkedin.com/pulse/ia-automatisation-puissance-cr%C3%A9ative-yann-pointud-spxze/) · Newsletter personnalisée par workflow IA, cas pratique end-to-end
-
-
-
 ## 🛠️ Stack technique
 
 ### Intelligence Artificielle & Data
