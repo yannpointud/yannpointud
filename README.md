@@ -199,7 +199,7 @@ POC avec pipeline d'analyse sémantique et rhétorique de débats a partir d'un 
 | **2019-2020** | Responsable de pole, *Wixalia*    | Amelioration des workflows +35%                                            |
 | **2009-2018** | Responsable IT, *Infologic-Santé* | Refonte SI complète, croissance 35 à 65 collaborateurs, +36% de CA en 4 ans|
 
-[![CV complet](https://img.shields.io/badge/📄_CV_complet-PDF-2D8659?style=for-the-badge)](https://yann.pointud.fr/cv.pdf)
+[![CV complet](https://img.shields.io/badge/📄_CV_complet-PDF-2D8659?style=for-the-badge)](https://yann.pointud.fr/)
 
 ---
 
